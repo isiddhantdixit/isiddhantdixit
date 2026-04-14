@@ -38,7 +38,22 @@ Let’s connect and build something impactful together.
 # 💻 Tech Stack:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--Languages and Tools Section-->       
+<!--Languages and Tools Section-->       
+<h2 align="center"></h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Trying to get in Machine Learning and AI.</li>
+  <li>Exploring Web Dev.</li>
+  <li>Improving my skills in Entrepership and Business Management as being one of the Youngest YC accepted applicant.</li>
+</ul>
 <!--
 **isiddhantdixit/isiddhantdixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
