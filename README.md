@@ -1,14 +1,20 @@
-# 💫 Hi 👋, I'm Siddhant Dixit
+<!--Banner-->
+![isiddhantdixit Banner Image](./banner.png)
 
-Email Me 👉 ✉️ **siddhant.dec@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-- 🔭 **I’m currently working on:** Web Dev
-- 🌱 **I’m currently learning:** new things everyday in this tech world
-- 👯 **I’m looking to collaborate on:** any project you would recommend
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** siddhant.dec19@gmail.com
-- 😄 **Pronouns:** he/him
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sid! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
   
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=isiddhantdixit&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="isiddhantdixit" style="padding-right:20px;" />
+</p>
 
 
 # 💫 About Me:
