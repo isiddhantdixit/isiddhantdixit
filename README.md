@@ -1,10 +1,7 @@
 <!--Banner-->
 ![isiddhantdixit Banner Image](./banner.png)
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sid! 
@@ -16,7 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=isiddhantdixit&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="isiddhantdixit" style="padding-right:20px;" />
 </p>
 
-
 # 💫 About Me:
 Hey everyone! It's Sid here.
 I’m a tech enthusiast driven by curiosity and a passion for how innovation shapes the world. I'm actively learning and exploring technology, coding, and modern problem-solving while staying tuned to emerging trends, startups, and breakthrough ideas. I follow entrepreneurs, tech leaders, and the business world closely to understand how vision turns into real-world impact.
@@ -26,6 +22,8 @@ I believe in learning by doing—maybe I lack some skills today, but trust me, I
 From exploring software to understanding digital ecosystems, I’m building a foundation that blends technical skills with strategic thinking. As I grow, I aim to contribute to tech-driven projects that create meaningful change while expanding my knowledge, network, and expertise.
 
 Let’s connect and build something impactful together.
+
+
 
 <!-- Snake Game Repo View -->
 
