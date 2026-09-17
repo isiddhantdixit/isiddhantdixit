@@ -14,15 +14,9 @@
 </p>
 
 # 💫 About Me:
-Hey everyone! It's Sid here.
-I’m a tech enthusiast driven by curiosity and a passion for how innovation shapes the world. I'm actively learning and exploring technology, coding, and modern problem-solving while staying tuned to emerging trends, startups, and breakthrough ideas. I follow entrepreneurs, tech leaders, and the business world closely to understand how vision turns into real-world impact.
+Currently serving as a Google Student Ambassador at Google, I am actively engaging in initiatives that foster technological learning and innovation. My academic journey at, where I am pursuing a Bachelor of Technology in Computer Science, complements my professional experience. Additionally, my participation in Y Combinator's Startup School reflects my interest in entrepreneurship and innovation.  
 
-I believe in learning by doing—maybe I lack some skills today, but trust me, I’m a fast learner. I adapt quickly, experiment boldly, and grow through hands-on experience rather than just theory.
-
-From exploring software to understanding digital ecosystems, I’m building a foundation that blends technical skills with strategic thinking. As I grow, I aim to contribute to tech-driven projects that create meaningful change while expanding my knowledge, network, and expertise.
-
-Let’s connect and build something impactful together.
-
+With a keen interest in public speaking, artificial intelligence, and machine learning, I am dedicated to leveraging technology to address modern challenges. I value hands-on learning and seek opportunities that allow me to integrate technical skills and strategic thinking. My goal is to contribute to meaningful projects while expanding my knowledge and professional network.
 
 
 <!-- Snake Game Repo View -->
