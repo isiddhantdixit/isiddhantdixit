@@ -21,9 +21,7 @@ With a keen interest in public speaking, artificial intelligence, and machine le
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
 
 
 ## 🌐 Socials:
